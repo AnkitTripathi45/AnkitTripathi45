@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Masters in Applied Data Science.<be> Please check out my [webpage](https://ankit-tripathi.netlify.app/) Currently working on Building AI /LLM Tools.</p>
+<p align="left">Masters in Applied Data Science.<br>currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br> Currently working on Building AI /LLM Tools.</p>
 
 ###
 
