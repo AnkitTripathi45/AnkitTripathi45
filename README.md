@@ -116,7 +116,7 @@ Currently working on Building AI/LLM Tools.
 ###
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/AnkitTripathi45/AnkitTripathi45/output/github-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AnkitTripathi45/AnkitTripathi45/output/github-snake-dark.svg?palette=github-dark" alt="Snake animation" />
 
 
 ###
