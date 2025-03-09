@@ -9,7 +9,7 @@ Currently working on Building AI/LLM Tools.
 
 ###
 
-<h2 align="left">Tech Stack:</h2>
+## 💻 Tech Stack:
 
 ###
 
