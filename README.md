@@ -1,4 +1,4 @@
-<img src="Readme_image.jpg" alt="GitHub Banner" width="100%" />
+<img src="Banner.jpg" alt="GitHub Banner" width="100%" />
 
 <h2 align="left">Hi World👋! My name is Ankit and I'm a Data Scientist</h2>
 
