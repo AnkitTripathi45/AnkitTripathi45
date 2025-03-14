@@ -1,5 +1,3 @@
-<img src="Banner.jpg" alt="GitHub Banner" width="100%" />
-
 <h1 align="left">Hi World👋! My name is Ankit and I'm a Data Scientist</h1>
 
 ###
